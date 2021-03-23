@@ -1,3 +1,3 @@
-# Test1
-Only for test
-# This repo only for C lauguage learning
+# TestC
+ This repo only for C lauguage learning
+# Never Mind
